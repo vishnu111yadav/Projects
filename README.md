@@ -1,22 +1,26 @@
 # Projects
 ([Seller App](https://sellers.kiko.live/)):-
+
 • Developed a scalable vendor management system enabling real-time order tracking and analytics for over 40,000 vendors.
 • Streamlined operational workflows, resulting in a 30% boost in order processing efficiency.
 • Streamlined MongoDB operations to efficiently handle high-order volumes (600K+ orders) with
    99.9% uptime and a 40
 
 ([Buyer App](https://shops.kiko.live/)):-
+
 • Contributed to the development of a high-traffic shopping platform serving 300K+ users, ensuring seamless functionality and intuitive user experiences.
 
 • Implemented robust data validation, error handling, and secure authentication, reducing security incidents by 50
 
 ([Dashboard](https://dashboard.kiko.live/)):-
+
 • Independently built a comprehensive dashboard to manage a large vendor network, processing 500K+ orders daily.
 
 • Integrated advanced search features, reducing data retrieval time by 35.
 
 
 ([Bullten](https://www.bullten.com/)):-
+
 • Revamped website functionality through cross-department collaboration on UI/UX enhancements, leading to a 20.
 
 
