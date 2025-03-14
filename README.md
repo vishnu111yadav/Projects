@@ -23,7 +23,9 @@
 ([Guesto](https://agents.guestoapp.com/)):-
 
  . Designed and implemented robust RESTful APIs using MySQL, enabling seamless data exchange for Guesto—a world-class platform built specifically for travel agents.
- .  Performance Optimization: Optimized database queries and system architecture, reducing response times by 35\% and ensuring a smooth and reliable booking experience.
+ 
+ . Performance Optimization: Optimized database queries and system architecture, reducing response times by 35\% and ensuring a smooth and reliable booking experience.
+ 
  . Cross-Functional Collaboration: Worked closely with product and design teams to integrate client feedback, enhancing the platform’s features and solidifying its reputation as a trusted solution for travel professionals.
 
 Video Aggregator:-
