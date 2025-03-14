@@ -7,11 +7,14 @@
 
 ([Buyer App](https://shops.kiko.live/)):-
 • Contributed to the development of a high-traffic shopping platform serving 300K+ users, ensuring seamless functionality and intuitive user experiences.
+
 • Implemented robust data validation, error handling, and secure authentication, reducing security incidents by 50
 
 ([Dashboard](https://dashboard.kiko.live/)):-
 • Independently built a comprehensive dashboard to manage a large vendor network, processing 500K+ orders daily.
-• Integrated advanced search features, reducing data retrieval time by 35
+
+• Integrated advanced search features, reducing data retrieval time by 35.
+
 
 ([Bullten](https://www.bullten.com/)):-
 • Revamped website functionality through cross-department collaboration on UI/UX enhancements, leading to a 20
@@ -19,13 +22,18 @@
 Video Aggregator:-
 
 • Curated Video Content: Extract and showcase only video tweets from Twitter, ensuring a focused and engaging media experience.
+
 • Seamless User Authentication: Integrated Twitter OAuth login, enabling secure and hassle-free access for users.
+
 • Optimized Performance: Implemented infinite scrolling for a smooth and uninterrupted browsing experience, enhancing user engagement.
 
 Email Scale :-
 
 . Automated Email Campaigns: Developed and executed an automated email campaign with a comprehensive warm-up sequence, effectively engaging over 500 active clients.
+
 . High Inbox Placement: Achieved an inbox placement rate exceeding 95\%, ensuring maximum deliverability and engagement.
+
 . Mass Email Outreach: Scaled email operations to send over 1M emails monthly, driving robust lead generation.
+
 . Exceptional Engagement: Maintained an average open rate of 90\%, significantly boosting customer interaction and conversion
 
